@@ -1,7 +1,7 @@
-putty_zenburn
+kitty_zenburn
 =============
 
-Zenburn color scheme for PuTTY
+Zenburn color scheme for KiTTY
 
  - Official zenburn page: http://slinky.imukuppi.org/zenburnpage/
  - Source for bright color scheme: http://looselytyped.blogspot.ie/2013/02/zenburn-pleasant-color-scheme-for-putty.html
